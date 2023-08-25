@@ -1,0 +1,14 @@
+.course-sumary {
+  background-color: #1870cc;
+  color: white;
+  padding: 30px 200px;
+}
+.course-sumary .MuiTypography-h4 {
+  line-height: 2 !important;
+}
+.course-sumary .MuiTypography-h6 {
+  line-height: 1.5 !important;
+}
+.course-sumary .MuiTypography-subtitle1 {
+  line-height: 1.75 !important;
+}
